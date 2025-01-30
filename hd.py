@@ -31,7 +31,7 @@ import json, os
 app = Client(
     "autoPost",
     api_id="7684100",
-    c2f3494545ad848ac58c2bea2076a00c",
+    "c2f3494545ad848ac58c2bea2076a00c",
     bot_token="7392368123:AAG2MvR9GcPOg7dvNMc1N6T8y-TzzAiw4Yw",#توكنك
 )
 loop = get_event_loop()
