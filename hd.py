@@ -30,13 +30,13 @@ import json, os
 
 app = Client(
     "autoPost",
-    api_id="28883494",
-    api_hash="52a0c1383fe92712aaf2fce7d5d5dd24",
-    bot_token="6551819537:AAGh9FpvYUWtAxjvQORIEGEMeQh65pStcLE",#توكنك
+    api_id="7684100",
+    c2f3494545ad848ac58c2bea2076a00c",
+    bot_token="7392368123:AAG2MvR9GcPOg7dvNMc1N6T8y-TzzAiw4Yw",#توكنك
 )
 loop = get_event_loop()
 listener = Listener(client = app)
-owner = 5570099225 #ايديك
+owner = 5539139939 #ايديك
 
 """
 USER SECRION START
